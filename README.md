@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @KarlAtSchool
+- 👀 I’m interested in making a game site that can be used in school
+- 🌱 I’m currently learning HTML and JS
+- 💞️ I’m looking to collaborate on no one(Just Me)
+- 📫 How to reach me
+-   Mail: in156family19@gmail.com
